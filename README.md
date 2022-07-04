@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @alexcarron
-- 👀 I’m interested in computer programming & video editing
-- 🌱 I currently know HTML, CSS, & JavaScript
-- 🌱 I’m currently learning Python
+<h1>Hi, I’m Alex Carron 👋</h1>
 
-<!---
-alexcarron/alexcarron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in **computer programming** & **video editing**
+
+🗺️ I'm currently completing <a href="https://www.theodinproject.com">The Odin Project</a>
+
+🌱 I’m learning **HTML**, **CSS**, **JS**, **React**, and **Python**
+
+💼 You can find my portfolio website with all my projects at <a href="https://alexcarron.github.io/portfolio/">alexcarron.github.io/portfolio</a>
+
+<br>
+
+<h2 align="left">Contact Me 📞</h3>
+📩 <a href="mailto:thealexcarron@gmail.com">thealexcarron@gmail.com</a>
