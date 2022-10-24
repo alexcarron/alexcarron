@@ -1,14 +1,14 @@
 <h1>Hi, I’m Alex Carron 👋</h1>
 
-👀 I’m interested in **computer programming** & **video editing**
+👀 I’m interested in **computer programming**, **hosting online game shows**, and **video editing**
 
-🗺️ I'm currently completing <a href="https://www.theodinproject.com">The Odin Project</a>
+🗺️ I'm currently working on automating my game show, Rapid Discord Mafia, with <a href="https://github.com/alexcarron/brobot">Brobot (The Discord Bot)</a>
 
-🌱 I’m learning **HTML**, **CSS**, **JS**, **React**, and **Python**
+🌱 I’m learning **HTML**, **CSS**, **JS**, **Python**, **C#**, and **Java**
 
-💼 You can find my portfolio website with all my projects at <a href="https://alexcarron.github.io/portfolio/">alexcarron.github.io/portfolio</a>
+💼 You can find my portfolio website with some of my projects at <a href="https://alexcarron.github.io/portfolio/">alexcarron.github.io/portfolio</a>
 
 <br>
 
-<h2 align="left">Contact Me 📞</h3>
-📩 <a href="mailto:thealexcarron@gmail.com">thealexcarron@gmail.com</a>
+<h2 align="left">Contact Me 📞</h2>
+📩 <a href="mailto:thealexcarron+github@gmail.com">thealexcarron@gmail.com</a>
