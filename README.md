@@ -4,7 +4,9 @@
 
 🗺️ I'm currently working on automating my game show, Rapid Discord Mafia, with <a href="https://github.com/alexcarron/brobot">Brobot (The Discord Bot)</a>
 
-🌱 I’m learning **HTML**, **CSS**, **JS**, **Python**, **C#**, and **Java**
+🌱 I’m learning **Python**, **C#**, and **Java**
+
+🌳 I know **HTML**, **CSS**, and **JavaScript**
 
 💼 You can find my portfolio website with some of my projects at <a href="https://alexcarron.github.io/portfolio/">alexcarron.github.io/portfolio</a>
 
