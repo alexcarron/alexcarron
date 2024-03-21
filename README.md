@@ -2,13 +2,11 @@
 
 👀 I’m interested in **computer programming**, **hosting online game shows**, and **video editing**
 
-🗺️ I'm currently working on automating my game show, Rapid Discord Mafia, with <a href="https://github.com/alexcarron/brobot">Brobot (The Discord Bot)</a>
+🗺️ I'm currently working on automating my game show, Rapid Discord Mafia, with <a href="https://github.com/alexcarron/brobot">Brobot (The Discord Bot)</a> and using Electron and Angular to create my own <a href="https://github.com/alexcarron/music-player">music player</a> for myself.
 
-🌱 I’m learning **Python**, **C#**, and **Java**
+🌳 I know **HTML**, **CSS**, **JavaScript**, **Python**, **Java**, **C**, **C++**
 
-🌳 I know **HTML**, **CSS**, and **JavaScript**
-
-💼 You can find my portfolio website with some of my projects at <a href="https://alexcarron.github.io/portfolio/">alexcarron.github.io/portfolio</a>
+<!-- 💼 You can find my portfolio website with some of my projects at <a href="https://alexcarron.github.io/portfolio/">alexcarron.github.io/portfolio</a> -->
 
 <br>
 
