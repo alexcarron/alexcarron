@@ -11,4 +11,5 @@
 <br>
 
 <h2 align="left">Contact Me 📞</h2>
-📩 <a href="mailto:thealexcarron+github@gmail.com">thealexcarron@gmail.com</a>
+Email: <a href="mailto:thealexcarron+github@gmail.com">thealexcarron@gmail.com</a>
+Discord: @alexcarron
