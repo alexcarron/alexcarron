@@ -21,6 +21,7 @@
 - Wireframing and Prototyping
 
 ## 📂 Finished Projects
+- **[Portfolio Website](https://github.com/alexcarron/portfolio)**: A static portfolio website I made as a high school senior, and have been updating since.
 - **[Regenerative Therapies Website](https://github.com/alexcarron/regenerative-therapies/):** A website for the company Regenerative Therapies
 - **[Personal Recreational Activity Generator](https://github.com/alexcarron/recreational-activity-generator):** An web app for creating recreational activities and searching or generating one to do based on your available time, items, focus, and wanted productivity.
 - **[Rock E-Store](https://github.com/alexcarron/rock-estore):** A web app made for buying rocks online and managing the purchases and stock of rocks all within the website. Created with a team of 5 developers and built in Java 11=> Spring Boot and Angular 17.
@@ -28,7 +29,6 @@
 ## 🔽 Minor Personal Projects
 - **[Class Schedule Countdown Clock](https://github.com/alexcarron/schedule):** A simple website that tracks how long until my individual classes are over
 - **[The Traffic Simulator Game](https://github.com/alexcarron/traffic_simulator):** A game where you avoid traffic cones to get to work on time made only in pure HTML, CSS, and JS
-- **[Portfolio Website](https://github.com/alexcarron/portfolio)**: A static portfolio website I made as a high school senior, and have been updating since.
 
 ## ⏭️ Ongoing Projects
 - **[Mood-based Music Player](https://github.com/alexcarron/music-player):** A custom music player application which will allow you to assign moods to songs and use that to generate playlist based on the mood you want. Building with Angular and Electron
