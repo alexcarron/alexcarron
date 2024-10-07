@@ -22,7 +22,7 @@
 
 ## 📂 Finished Projects
 - **[Regenerative Therapies Website](https://github.com/alexcarron/regenerative-therapies/):** A website for the company Regenerative Therapies
-- **[Personal Recreational Activity Generator](https://github.com/alexcarron/recreational-activity-generator):** An web app for creating recreational activities and searching or generating one to do based on your avaialable time, items, focus, and wanted productivity.
+- **[Personal Recreational Activity Generator](https://github.com/alexcarron/recreational-activity-generator):** An web app for creating recreational activities and searching or generating one to do based on your available time, items, focus, and wanted productivity.
 - **[Rock E-Store](https://github.com/alexcarron/rock-estore):** A web app made for buying rocks online and managing the purchases and stock of rocks all within the website. Created with a team of 5 developers and built in Java 11=> Spring Boot and Angular 17.
 
 ## 🔽 Minor Personal Projects
