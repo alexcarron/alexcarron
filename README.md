@@ -28,7 +28,7 @@
 ## 🔽 Minor Personal Projects
 - **[Class Schedule Countdown Clock](https://github.com/alexcarron/schedule):** A simple website that tracks how long until my individual classes are over
 - **[The Traffic Simulator Game](https://github.com/alexcarron/traffic_simulator):** A game where you avoid traffic cones to get to work on time made only in pure HTML, CSS, and JS
-- - **[Personal Recreational Activity Generator](https://github.com/alexcarron/recreational-activity-generator):** An web app for creating recreational activities and searching or generating one to do based on your available time, items, focus, and wanted productivity.
+- **[Personal Recreational Activity Generator](https://github.com/alexcarron/recreational-activity-generator):** An web app for creating recreational activities and searching or generating one to do based on your available time, items, focus, and wanted productivity.
 
 ## ⏭️ Ongoing Projects
 - **[Mood-based Music Player](https://github.com/alexcarron/music-player):** A custom music player application which will allow you to assign moods to songs and use that to generate playlist based on the mood you want. Building with Angular and Electron
