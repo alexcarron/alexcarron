@@ -36,11 +36,11 @@
 - **[Brobot Discord Bot](https://github.com/alexcarron/brobot):** An automated program that lets people run commands on the instant messaging social platform, Discord. Helps contestants participate in my online game shows. Constantly being updated since Jan 2021 and created with Discord.JS
 
 ## Fun Facts About Me :D
-- 🎵 I'm a big fan of EDM, Future Bass, Ambient Noise, J-Pop, Glitchcore, and Technical Rap, and I enjoy rhythm games
-- 🎮 I've hosted online game shows on Discord similar to Survivor and Quiz Shows
-- 📺 I used to run a YouTube channel, LL Game Shows! Where I wrote, recorded, edited, and uploaded videos
-- 🚶‍♂️ One of my favorite things to do is to peacefully walk at night
 - 🤫 I'm naturally introverted and reserved, mostly low energy. I'm typically logical and like to be structured and organized
+- 🎮 I've hosted many online game shows on Discord similar to Survivor, Quiz Shows, Murder Mystery, etc.
+- 📺 I used to run a YouTube channel, [LL Game Shows!](https://youtube.com/LLGameShows), where I wrote, recorded, edited, and uploaded videos
+- 🚶‍♂️ One of my favorite things to do is to peacefully walk at night
+- 🎵 I'm a big fan of EDM, Future Bass, Ambient Noise, J-Pop, Glitchcore, and Technical Rap, and I enjoy rhythm games
 
 ## 📞 Contact Me
 - **Casual Email:** <a href="mailto:alexclarcarr05+github@gmail.com">alexclarcarr05@gmail.com</a>
