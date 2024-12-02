@@ -9,8 +9,7 @@
 - React (Reactstrap)
 - Python
 - Java
-- C
-- C++
+- C, C++
 - C#
 - RESTful APIs (Flask, Java Spring Boot)
 - Low-Fidelty Design & Prototyping (Proto.io)
