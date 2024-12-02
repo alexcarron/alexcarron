@@ -1,6 +1,6 @@
 # Hi, I’m Alex Carron 👋
 
-👀 I’m a software engineering major who enjoys coding and exploring all areas of software development. I'm passionate about building helpful software and contributing to open-source projects! =D
+👀 I’m a software engineering major who enjoys coding and exploring all areas of software development. I'm passionate about building helpful software and contributing to projects! =D
 
 ## 🌳 Skills & Technologies
 - HTML, CSS
