@@ -5,25 +5,29 @@
 ## 🌳 Skills & Technologies
 - HTML, CSS
 - Javascript (and TypeScript, Node.js)
+- Angular
+- React (Reactstrap)
 - Python
 - Java
 - C
 - C++
-- Angular
-- RESTful APIs
+- C#
+- RESTful APIs (Flask, Java Spring Boot)
 
 ## 📈 Learning
-- React
-- PostgreSQL
-- Server-Side Rendering
-- API Design and Integration
-- User-Centered Design Principles
-- Wireframing and Prototyping
-
+- Software Architecture
+- Cache Validation
+- NoSQL Databases
+- CSS Frameworks
+- DevOps (Deployment)
+- Web Application Security
+  
 ## 📂 Finished Projects
+- **[Full-Stack Club Management Web App](https://github.com/alexcarron/club-occupancy-manager)**  A web app for managing club occupancy and performing CRUD operations on club data, built with React, Reactstrap, Python Flask, and PostgreSQL, built for the SWEN-344 Engineering of Web-Based Software Systems course.
+- **[Backend Chat Application](https://github.com/alexcarron/chat-server)** A backend chat application with PostgreSQL database and Python Flask API for managing users, communities, channels, and messages, built for the SWEN-344 Engineering of Web-Based Software Systems course.
+- **[Rock E-Store](https://github.com/alexcarron/rock-estore):** A web app made for buying rocks online and managing the purchases and stock of rocks all within the website. Created with a team of 5 developers and built in Java 11=> Spring Boot and Angular 17.
 - **[Portfolio Website](https://github.com/alexcarron/portfolio)**: A static portfolio website made in puerly HTML, CSS, and JavaScript I made as a high school senior, and have been updating since.
 - **[Regenerative Therapies Website](https://github.com/alexcarron/regenerative-therapies/):** A website for the company Regenerative Therapies made in puerly HTML, CSS, and JavaScript.
-- **[Rock E-Store](https://github.com/alexcarron/rock-estore):** A web app made for buying rocks online and managing the purchases and stock of rocks all within the website. Created with a team of 5 developers and built in Java 11=> Spring Boot and Angular 17.
 
 ## 🔽 Minor Personal Projects
 - **[Class Schedule Countdown Clock](https://github.com/alexcarron/schedule):** A simple website that tracks how long until my individual classes are over using just HTML, CSS, and JavaScript.
@@ -51,4 +55,4 @@
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects and get in touch if you'd like to collaborate. The fastest way to contact me is through Discord
+Thanks for visiting my profile! Feel free to check out my projects and get in touch if you'd like to collaborate. The fastest way to contact me is through Discord (@alexcarron)
