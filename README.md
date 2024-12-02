@@ -13,6 +13,7 @@
 - C++
 - C#
 - RESTful APIs (Flask, Java Spring Boot)
+- Low-Fidelty Design & Prototyping (Proto.io)
 
 ## 📈 Learning
 - Software Architecture
@@ -23,11 +24,12 @@
 - Web Application Security
   
 ## 📂 Finished Projects
-- **[Full-Stack Club Management Web App](https://github.com/alexcarron/club-occupancy-manager)**  A web app for managing club occupancy and performing CRUD operations on club data, built with React, Reactstrap, Python Flask, and PostgreSQL, built for the SWEN-344 Engineering of Web-Based Software Systems course.
-- **[Backend Chat Application](https://github.com/alexcarron/chat-server)** A backend chat application with PostgreSQL database and Python Flask API for managing users, communities, channels, and messages, built for the SWEN-344 Engineering of Web-Based Software Systems course.
-- **[Rock E-Store](https://github.com/alexcarron/rock-estore):** A web app made for buying rocks online and managing the purchases and stock of rocks all within the website. Created with a team of 5 developers and built in Java 11=> Spring Boot and Angular 17.
-- **[Portfolio Website](https://github.com/alexcarron/portfolio)**: A static portfolio website made in puerly HTML, CSS, and JavaScript I made as a high school senior, and have been updating since.
-- **[Regenerative Therapies Website](https://github.com/alexcarron/regenerative-therapies/):** A website for the company Regenerative Therapies made in puerly HTML, CSS, and JavaScript.
+- **[Full-Stack Club Management Web App](https://github.com/alexcarron/club-occupancy-manager)**: A web app for managing club occupancy and performing CRUD operations on club data, built with React, Reactstrap, Python Flask, and PostgreSQL, built for the SWEN-344 Engineering of Web-Based Software Systems course.
+- **[Backend Chat Application](https://github.com/alexcarron/chat-server)**: A backend chat application with PostgreSQL database and Python Flask API for managing users, communities, channels, and messages, built for the SWEN-344 Engineering of Web-Based Software Systems course.
+- **[Rock E-Store](https://github.com/alexcarron/rock-estore)**" A web app made for buying rocks online and managing the purchases and stock of rocks all within the website. Created with a team of 5 developers and built in Java 11=> Spring Boot and Angular 17.
+- **[CampusConnect Prototype](https://github.com/alexcarron/campus-connect)**: A beta release of a university event management system prototype that enables event hosting, registration, and communication between students, event managers, and administrators, built with Proto.io for the SWEN-444 Human Cenetered Design and Requirements course.
+- **[Portfolio Website](https://github.com/alexcarron/portfolio)**: A static portfolio website made in puerly HTML, CSS, and JavaScript I made as a high school senior.
+- **[Regenerative Therapies Website](https://github.com/alexcarron/regenerative-therapies/)**: A website for the company Regenerative Therapies made in puerly HTML, CSS, and JavaScript.
 
 ## 🔽 Minor Personal Projects
 - **[Class Schedule Countdown Clock](https://github.com/alexcarron/schedule):** A simple website that tracks how long until my individual classes are over using just HTML, CSS, and JavaScript.
