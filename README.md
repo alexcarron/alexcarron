@@ -105,7 +105,6 @@ I’m a second-year software engineering major who enjoys developing and designi
 ## 📞 Contact Me
 - **Casual Email:** <a href="mailto:alexclarcarr05+github@gmail.com">alexclarcarr05@gmail.com</a>
 - **Professional Email:** <a href="mailto:thealexcarron+github@gmail.com">thealexcarron@gmail.com</a>
-- **School Email:** <a href="mailto:acc6472@rit.edu">acc6472@rit.edu</a>
 - **LinkedIn:** [@alexcarron](https://www.linkedin.com/in/alexcarron/)
 - **Discord:** @alexcarron
 
