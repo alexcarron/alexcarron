@@ -13,14 +13,6 @@
 - C#
 - RESTful APIs (Flask, Java Spring Boot)
 - Low-Fidelty Design & Prototyping (Proto.io)
-
-## 📈 Learning
-- Software Architecture
-- Cache Validation
-- NoSQL Databases
-- CSS Frameworks
-- DevOps (Deployment)
-- Web Application Security
   
 ## 📂 Finished Projects
 - **[Full-Stack Club Management Web App](https://github.com/alexcarron/club-occupancy-manager)**: A web app for managing club occupancy and performing CRUD operations on club data, built with React, Reactstrap, Python Flask, and PostgreSQL, built for the SWEN-344 Engineering of Web-Based Software Systems course.
