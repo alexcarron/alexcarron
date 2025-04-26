@@ -3,6 +3,13 @@
 
 I’m a second-year software engineering major who enjoys developing and designing software. I'm passionate about building helpful software and contributing to projects! =D
 
+- **[🌳 Skills & Technologies](#-skills--technologies)**
+- **[📂 Projects](#projects-)**
+  - **[🌟 Major Completed Projects](#-major-completed-projects)**
+  - **[🛠 Minor Personal Projects](#-minor-personal-projects)**
+- **[🎉 Fun Facts About Me](#-fun-facts-about-me-u)**
+- **[📞 Contact Me](#-contact-me)**
+
 ---
 
 ## 🌳 Skills & Technologies
@@ -27,8 +34,8 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 ---
 
-# 📂 Projects
-## Major Completed Projects
+# Projects 📂
+## 🌟 Major Completed Projects
 ### [Where's Waldo: Face Finding Game](https://github.com/514-2245-2-team-6/terraform-infastructure) 
 *Terraform, AWS (Amplify, Rekognition, Lambda, API Gateway, S3, RDS, CloudWatch) — Spring 2025* 
 - A full-stack web application that challenges users to locate a specific face in a crowd image (or their own custom image)
@@ -61,7 +68,7 @@ I’m a second-year software engineering major who enjoys developing and designi
 - A company website for Regenerative Therapies, built as a freelance project.
 
 
-## Minor Personal Projects
+## 🛠 Minor Personal Projects
 ### [Flow Focus](https://github.com/alexcarron/flow-focus)
 *Angular — Summer 2024*  
 - A personal task management app focused on helping users prioritize the most important task at any moment.
@@ -88,12 +95,12 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 ---
 
-## Fun Facts About Me :D
-- 🤫 I'm naturally introverted and reserved, typically low energy. I'm logical and prefer to be structured and organized.
-- 🎮 I've hosted many online game shows on *Discord* similar to Survivor, Quiz Shows, Murder Mystery, etc.
-- 📺 I used to run a YouTube channel, [LL Game Shows!](https://youtube.com/LLGameShows), where I wrote, recorded, edited, and uploaded videos
-- 🚶‍♂️ One of my favorite things to do is to peacefully walk at night
-- 🎵 I'm a big fan of EDM, Future Bass, Ambient Noise, J-Pop, Glitchcore, and Technical Rap. I also enjoy rhythm games
+## 🎉 Fun Facts About Me (^u^)
+- I'm naturally introverted and reserved, typically low energy. I'm logical and prefer to be structured and organized.
+- I've hosted many online game shows on *Discord* similar to Survivor, Quiz Shows, Murder Mystery, etc.
+- I used to run a YouTube channel, [LL Game Shows!](https://youtube.com/LLGameShows), where I wrote, recorded, edited, and uploaded videos
+- One of my favorite things to do is to peacefully walk at night
+- I'm a big fan of EDM, Future Bass, Ambient Noise, J-Pop, Glitchcore, and Technical Rap. I also enjoy rhythm games
 
 ## 📞 Contact Me
 - **Casual Email:** <a href="mailto:alexclarcarr05+github@gmail.com">alexclarcarr05@gmail.com</a>
