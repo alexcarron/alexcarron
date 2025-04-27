@@ -69,6 +69,11 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 
 ## 🛠 Minor Personal Projects
+### [Watchlist](https://github.com/alexcarron/watchlist/) 
+*Vite, React, React Router, React Context API, GitHub Actions — Spring 2024*
+- A React-based web application for managing a personal watchlist of media.
+- Built in just 24 hours as a personal coding challenge
+
 ### [Flow Focus](https://github.com/alexcarron/flow-focus)
 *Angular — Summer 2024*  
 - A personal task management app focused on helping users prioritize the most important task at any moment.
