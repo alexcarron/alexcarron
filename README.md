@@ -69,10 +69,15 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 
 ## 🛠 Minor Personal Projects
+### [Song Downloader and Rating System](https://github.com/alexcarron/songrate-voter)
+*Vite, React, Python, Flask, yt_dlp, Spotify API — Summer 2025*
+- A proof of concept web app for conviently listening to and rating songs from a Spotify playlist in one place.
+- Built in 24 hour time limit as a personal coding challenge.
+
 ### [Watchlist](https://github.com/alexcarron/watchlist/) 
-*Vite, React, React Router, React Context API, GitHub Actions — Spring 2024*
+*Vite, React, React Router, React Context API, GitHub Actions — Spring 2025*
 - A React-based web application for managing a personal watchlist of media.
-- Built in just 24 hours as a personal coding challenge
+- Built in 24 hour time limit as a personal coding challenge.
 
 ### [Flow Focus](https://github.com/alexcarron/flow-focus)
 *Angular — Summer 2024*  
