@@ -69,6 +69,10 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 
 ## 🛠 Minor Personal Projects
+### [Brobot Discord Bot](https://github.com/alexcarron/brobot)
+*Node.js, Discord.js — 2021 Onwards*
+- An automated bot that lets users run commands on Discord, designed to support contestants in my online game shows.
+
 ### [Song Downloader and Rating System](https://github.com/alexcarron/songrate-voter)
 *Vite, React, Python, Flask, yt_dlp, Spotify API — Summer 2025*
 - A proof of concept web app for conviently listening to and rating songs from a Spotify playlist in one place.
@@ -82,10 +86,6 @@ I’m a second-year software engineering major who enjoys developing and designi
 ### [Flow Focus](https://github.com/alexcarron/flow-focus)
 *Angular — Summer 2024*  
 - A personal task management app focused on helping users prioritize the most important task at any moment.
-
-### [Brobot Discord Bot](https://github.com/alexcarron/brobot)
-*Node.js, Discord.js — 2021 Onwards*
-- An automated bot that lets users run commands on Discord, designed to support contestants in my online game shows.
 
 ### [Portfolio Website](https://github.com/alexcarron/portfolio)
 *HTML, CSS, JavaScript — Summer 2022*  
@@ -105,7 +105,7 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 ---
 
-## 🎉 Fun Facts About Me (^u^)
+## 🎉 Fun Facts About Me ( ◠‿◠✿)
 - I'm naturally introverted and reserved, typically low energy. I'm logical and prefer to be structured and organized.
 - I've hosted many online game shows on *Discord* similar to Survivor, Quiz Shows, Murder Mystery, etc.
 - I used to run a YouTube channel, [LL Game Shows!](https://youtube.com/LLGameShows), where I wrote, recorded, edited, and uploaded videos
