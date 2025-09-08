@@ -70,8 +70,15 @@ I’m a second-year software engineering major who enjoys developing and designi
 
 ## 🛠 Minor Personal Projects
 ### [Brobot Discord Bot](https://github.com/alexcarron/brobot)
-*Node.js, Discord.js — 2021 Onwards*
+*TypeScript, Node.js, Discord.js — 2021 Onwards*
 - An automated bot that lets users run commands on Discord, designed to support contestants in my online game shows.
+- Handles all of the following:
+  - Starting and scheduling events with custom announcements
+  - Manging the LL Point economy
+  - Posting daily discussion topics in different Discord channels
+  - Allowing text-to-speech in voice chat for users without a microphone
+  - Runs the entire game system for Rapid Discord Mafia
+  - Runs the entire game system for Namesmith
 
 ### [Song Downloader and Rating System](https://github.com/alexcarron/songrate-voter)
 *Vite, React, Python, Flask, yt_dlp, Spotify API — Summer 2025*
