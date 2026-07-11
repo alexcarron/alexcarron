@@ -81,14 +81,17 @@ What I enjoy most is building helpful software, improving my team's workflows, a
 
 
 ## 🛠 Minor Personal Projects
+### [Activity Wheel](https://github.com/alexcarron/activity-wheel)
+*Vite, React 19, TypeScript, IndexedDB, Supabase (Auth, Postgres, RLS) — Summer 2026*
+- A weighted activity-selection wheel that learns your preferences over time from feedback
+- Local by default using IndexedDB with an optional Google sign-in that switches to a private, RLS-protected Supabase backend
+  
 ### [Brobot Discord Bot](https://github.com/alexcarron/brobot)
 *TypeScript, Node.js, Discord.js, SQLite — 2021 Onwards*
 - A multipurpose Discord bot originally designed to support contestants in my online game shows that grew into a full platform
 - Hosts two complete game systems:
   - **Rapid Discord Mafia** - a social deduction mafia game with automated game flow
-  - **Namesmith** - a competitive username-crafting game with mystery boxes, trading,
-    crafting, quests, roles, perks, and ranked choice voting, built with a full TypeScript
-    rewrite, CI pipeline, and unit tests
+  - **Namesmith** - a competitive username-crafting game with mystery boxes, trading, crafting, quests, roles, perks, and ranked choice voting, built with a full TypeScript rewrite, CI pipeline, and unit tests
 
 ### [Song Downloader and Rating System](https://github.com/alexcarron/songrate-voter)
 *Vite, React, Python, Flask, yt_dlp, Spotify API — Summer 2025*
